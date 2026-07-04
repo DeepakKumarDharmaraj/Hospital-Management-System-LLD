@@ -36,7 +36,5 @@ Briefly explain your class structure here, e.g.:
 - Applying OOP concepts to a practical system design
 - Structuring a project using LLD principles.
 
-Deepak Kumar .D
-
 ---
 **Author:** Deepak Kumar Dharmaraj
