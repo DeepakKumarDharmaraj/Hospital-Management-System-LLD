@@ -5,6 +5,8 @@
 
 using namespace std;
 
+//Practice
+
 // ─────────────────────────────────────────
 // TEMPLATE — Generic Storage for any type
 // ─────────────────────────────────────────
