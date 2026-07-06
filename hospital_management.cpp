@@ -351,5 +351,7 @@ int main() {
 
     cout << "\nPersons after cleanup: " << Person::totalPersons << "\n";
     cout << "\n[System] Hospital shutdown complete.\n";
+
+    cout << "conflict";
     return 0;
 }
