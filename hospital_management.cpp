@@ -351,7 +351,5 @@ int main() {
 
     cout << "\nPersons after cleanup: " << Person::totalPersons << "\n";
     cout << "\n[System] Hospital shutdown complete.\n";
-
-    cout << "\ngit conflict" << endl;
     return 0;
 }
